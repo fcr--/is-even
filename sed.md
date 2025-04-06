@@ -16,6 +16,7 @@ even
 ```
 
 ## Modulo 2
+Contributed by: [fcr--](https://github.com/fcr--)
 
 We calculate the remainder of the integer division by 2 for each digit, and then
 discard all of them but the last one.
